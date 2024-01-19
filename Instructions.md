@@ -1,0 +1,3 @@
+Instructions on how to run this code: For the best experience open and run this in Visual Studio Code, you will have to pip install two packages, prompt toolkit and requests. These can be done in the terminal.
+If you are on MacOS it is usually $python3 pip install prompt_toolkit and $python3 pip install requests,  On windows it is usually  $pip install prompt_toolkit and $pip install requests. 
+However, if your PATH is not configured correctly, this may not work. Instructions on how to play the game are provided in-game.
